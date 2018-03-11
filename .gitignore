@@ -1,0 +1,10 @@
+utils/
+.directory
+project.aux
+project.lof
+project.log
+project.lot
+project.out
+project.pdf
+project.synctex.gz
+project.toc
